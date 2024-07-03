@@ -1,0 +1,51 @@
+h1
+{
+    text-align: center;
+    color: black;
+}
+.heading-container {
+    display: flex;
+    justify-content: space-around; /* Distributes space around the headings */
+}
+
+
+.third
+{
+    width: 300px;
+    border: 5px solid black;
+    padding: 0;
+    margin: 10px;
+    background-image: url("https://artofthemovies.co.uk/cdn/shop/files/IMG_4473.jpg?v=1698500199");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.second {
+    width: 300px;
+    border: 5px solid black;
+    padding: 0;
+    margin: 10px;
+    background-image: url("https://play-lh.googleusercontent.com/jalongU-EtEyIVLHphasHtuoJML1ROTMFUXizvzGQ_zq2B0JBZYkcVLC7FUq61f9Yll9ClMzHfuXNUNx3w");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+
+.first
+{
+    width: 300px;
+    border: 5px solid black;
+    padding: 0;
+    margin: 10px;
+    background-image: url("https://i5.walmartimages.com/seo/Inception-Style-H-Movie-Poster-11-x-17-in_528727fb-d6c6-4a8b-9b7b-581bf4c4b4d8.f95d7f4c93f2ec98e6339279efeed1d0.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.rock
+{
+    height: 300px;
+}
